@@ -4,7 +4,11 @@
 }
 
 body {
+<<<<<<< Updated upstream
     background-color: rgb(113, 215, 233);
+=======
+    background-color: rgb(113, 209, 233);
+>>>>>>> Stashed changes
 }
 
 main {
